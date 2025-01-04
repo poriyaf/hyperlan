@@ -2,7 +2,7 @@
 - اول به پریویت کی یک والت و یک rpc شخصی سازی شده شبکه بیس نیاز دارید برای ساختن ان به این ادرس مراجعه کنید https://dashboard.alchemy.com/apps/zfh4fwnitfwpd1l6/networks
 - همچنین به یک دلار اتریوم برای پرداخت gas در شبکه بیس در همین والت نیاز دارید
 - کد ها را تجمیع کردم تا نصب راحت تر باشد در این مدل نصب باید پریویت کی و rpc را خودتان وارد کنید
-  ```
+   ```
  #!/bin/bash
 
 echo "Updating system..."
@@ -51,7 +51,7 @@ docker run -d \
 echo "Displaying logs for Hyperlane node..."
 docker logs -f hyperlane
 
-  ```
+ ```
 - اگر نصب موفقیت آمیز و طبق عکس زیر لاگ ها را نشان بده میتوانید با ctrl+c پنجره را ببندید
 
 
