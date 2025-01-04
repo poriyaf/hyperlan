@@ -79,3 +79,17 @@ docker logs -f hyperlane
 ![base hyper](https://github.com/user-attachments/assets/76c1a781-66f0-41c5-84bd-073d0670b36a)
 
 - نکته: این کد ها را سرویس chatgpt برام نوشته و شخصا 4 تا نود نصب کردم اگه مشکلی بود از chatgpt بپرسید
+  
+- 
+برای مشاهده لاگ‌های زنده کانتینر (حتی پس از استارت مجدد)
+ ```
+docker logs -f hyperlane
+ ```
+- برای توقف کانتینر
+ ```
+ docker stop hyperlane
+ ```
+- برای استارت کانتینر
+ ```
+docker start hyperlane
+ ```
