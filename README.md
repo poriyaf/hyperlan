@@ -1,5 +1,7 @@
 # نصب hyperlane
 - اول به پریویت کی یک والت و یک rpc شخصی سازی شده شبکه بیس نیاز دارید برای ساختن ان به این ادرس مراجعه کنید https://dashboard.alchemy.com/apps/zfh4fwnitfwpd1l6/networks
+- ![alchemy](https://github.com/user-attachments/assets/960323b1-77ad-4ac3-8b77-7459e51cd223)
+
 - همچنین به یک دلار اتریوم برای پرداخت gas در شبکه بیس در همین والت نیاز دارید
 - کد ها را تجمیع کردم تا نصب راحت تر باشد در این مدل نصب باید پریویت کی و rpc را خودتان وارد کنید
   #!/bin/bash
