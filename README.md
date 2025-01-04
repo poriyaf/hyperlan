@@ -1,2 +1,2 @@
 # hyperlane
-Fast installation of hyperlan node
+Fast installation of hyperlane node
