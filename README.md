@@ -71,7 +71,7 @@ echo "Displaying logs for Hyperlane node..."
 docker logs -f hyperlane
   ```
 
-- اگر نصب موفقیت آمیز و طبق عکس زیر لاگ ها را نشان بده میتوانید با ctrl+c پنجره را ببندید
+- اگر نصب موفقیت آمیز و طبق عکس زیر لاگ ها را نشان بده میتوانید  پنجره را ببندید
 
 
 ![log hyperlane](https://github.com/user-attachments/assets/35da35d5-1c52-4dff-956d-d8600f94e4a8)
