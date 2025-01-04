@@ -78,4 +78,4 @@ docker logs -f hyperlane
 
 ![base hyper](https://github.com/user-attachments/assets/76c1a781-66f0-41c5-84bd-073d0670b36a)
 
-- نکته: این کد ها را سرویس chatgpt برام نوشته و شخصا 4بار نصب کردم اگه مشکلی بود از chatgpt بپرسید
+- نکته: این کد ها را سرویس chatgpt برام نوشته و شخصا 4 تا نود نصب کردم اگه مشکلی بود از chatgpt بپرسید
