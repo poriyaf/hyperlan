@@ -5,11 +5,11 @@
   ```
   #!/bin/bash
 
-# به‌روزرسانی سیستم
+
 echo "Updating system..."
 sudo apt-get update && sudo apt-get upgrade -y
 
-# نصب Docker
+
 echo "Installing Docker..."
 sudo apt-get install -y docker.io
 
